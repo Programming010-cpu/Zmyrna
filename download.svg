@@ -1,0 +1,7 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="16" cy="16" r="16" fill="#F5F7FA"></circle>
+  <!-- “Z” 主体 -->
+  <path d="M8 9h16l-3 3H11l11 11H8l3-3h10L8 9z" fill="#0A0A0A"></path>
+</svg>
